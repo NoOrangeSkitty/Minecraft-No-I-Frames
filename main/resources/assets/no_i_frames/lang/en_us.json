@@ -1,0 +1,5 @@
+{
+  "gamerule.iFrameLength": "I Frame Length",
+  "config.no_i_frames.no_i_frame_config": "NoIFrameConfig",
+  "gamerule.iFrameLength.description": "How long will an i frame last"
+}
